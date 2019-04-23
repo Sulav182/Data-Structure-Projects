@@ -1,0 +1,180 @@
+Define Key:abracadabra Value:COLLISION
+Creating Entry For Key:abracadabra At NO Index:0
+Define Key:bonafide Value:COLLISION
+Creating Entry For Key:bonafide At NO Index:3
+Define Key:delicious Value:COLLISION
+Creating Entry For Key:delicious At NO Index:4
+RESIZING: FROM:5 TO:7
+Creating Entry For Key:abracadabra At NO Index:3
+** Looking For Key:bonafide At Index:3 OFFSET:1
+Creating Entry For Key:bonafide At NO Index:4
+Creating Entry For Key:delicious At NO Index:0
+DONE RESIZING
+Define Key:edgy Value:COLLISION
+** Looking For Key:edgy At Index:3 OFFSET:6
+Creating Entry For Key:edgy At NO Index:2
+RESIZING: FROM:7 TO:13
+Creating Entry For Key:delicious At NO Index:9
+Creating Entry For Key:edgy At NO Index:7
+Creating Entry For Key:abracadabra At NO Index:2
+Creating Entry For Key:bonafide At NO Index:0
+DONE RESIZING
+Define Key:funky Value:COLLISION
+Creating Entry For Key:funky At NO Index:12
+Define Key:good Value:COLLISION
+Creating Entry For Key:good At NO Index:1
+Define Key:hello Value:COLLISION
+** Looking For Key:hello At Index:1 OFFSET:12
+** Looking For Key:hello At Index:0 OFFSET:12
+** Looking For Key:hello At Index:12 OFFSET:12
+Creating Entry For Key:hello At NO Index:11
+RESIZING: FROM:13 TO:29
+Creating Entry For Key:bonafide At NO Index:23
+Creating Entry For Key:good At NO Index:21
+** Looking For Key:abracadabra At Index:23 OFFSET:27
+** Looking For Key:abracadabra At Index:21 OFFSET:27
+Creating Entry For Key:abracadabra At NO Index:19
+Creating Entry For Key:edgy At NO Index:4
+Creating Entry For Key:delicious At NO Index:24
+** Looking For Key:hello At Index:19 OFFSET:26
+Creating Entry For Key:hello At NO Index:16
+Creating Entry For Key:funky At NO Index:28
+DONE RESIZING
+Define Key:icky Value:COLLISION
+** Looking For Key:icky At Index:28 OFFSET:26
+Creating Entry For Key:icky At NO Index:25
+Define Key:jovial Value:COLLISION
+Creating Entry For Key:jovial At NO Index:27
+Define Key:kool Value:COLLISION
+Creating Entry For Key:kool At NO Index:3
+Define Key:looser Value:COLLISION
+Creating Entry For Key:looser At NO Index:17
+Define Key:minimum Value:COLLISION
+Creating Entry For Key:minimum At NO Index:1
+Define Key:nice Value:COLLISION
+Creating Entry For Key:nice At NO Index:0
+Define Key:object Value:COLLISION
+** Looking For Key:object At Index:23 OFFSET:3
+Creating Entry For Key:object At NO Index:26
+Define Key:part Value:COLLISION
+Creating Entry For Key:part At NO Index:13
+RESIZING: FROM:29 TO:59
+Creating Entry For Key:nice At NO Index:57
+Creating Entry For Key:minimum At NO Index:8
+Creating Entry For Key:kool At NO Index:22
+Creating Entry For Key:edgy At NO Index:36
+Creating Entry For Key:part At NO Index:51
+Creating Entry For Key:hello At NO Index:55
+** Looking For Key:looser At Index:57 OFFSET:29
+Creating Entry For Key:looser At NO Index:27
+Creating Entry For Key:abracadabra At NO Index:41
+Creating Entry For Key:good At NO Index:18
+Creating Entry For Key:bonafide At NO Index:4
+Creating Entry For Key:delicious At NO Index:50
+** Looking For Key:icky At Index:55 OFFSET:53
+Creating Entry For Key:icky At NO Index:49
+Creating Entry For Key:object At NO Index:30
+** Looking For Key:jovial At Index:30 OFFSET:42
+Creating Entry For Key:jovial At NO Index:13
+Creating Entry For Key:funky At NO Index:52
+DONE RESIZING
+Define Key:quiet Value:COLLISION
+** Looking For Key:quiet At Index:51 OFFSET:34
+Creating Entry For Key:quiet At NO Index:26
+Define Key:raunchy Value:COLLISION
+Creating Entry For Key:raunchy At NO Index:47
+Define Key:silly Value:COLLISION
+Creating Entry For Key:silly At NO Index:28
+Define Key:tepid Value:COLLISION
+** Looking For Key:tepid At Index:30 OFFSET:25
+** Looking For Key:tepid At Index:55 OFFSET:25
+Creating Entry For Key:tepid At NO Index:21
+Define Key:uranium Value:COLLISION
+Creating Entry For Key:uranium At NO Index:45
+Define Key:very Value:COLLISION
+** Looking For Key:very At Index:55 OFFSET:56
+** Looking For Key:very At Index:52 OFFSET:56
+** Looking For Key:very At Index:49 OFFSET:56
+Creating Entry For Key:very At NO Index:46
+Define Key:worrisome Value:COLLISION
+Creating Entry For Key:worrisome At NO Index:53
+Define Key:xylaphone Value:COLLISION
+Creating Entry For Key:xylaphone At NO Index:43
+Define Key:zebra Value:COLLISION
+Creating Entry For Key:zebra At NO Index:29
+Delete Key:hello
+** Looking For Key:hello At Index:55 OFFSET:26
+Deleting Entry for Key:hello At Index:55
+Delete Key:funky
+** Looking For Key:funky At Index:52 OFFSET:34
+Deleting Entry for Key:funky At Index:52
+Delete Key:icky
+** Looking For Key:icky At Index:55 OFFSET:53
+** Looking For Key:icky At Index:49 OFFSET:53
+Deleting Entry for Key:icky At Index:49
+Lookup Key:hello
+** Looking For Key:hello At Index:55 OFFSET:26
+** Looking For Key:hello At Index:22 OFFSET:26
+Entry for Key:hello Not Found
+No Value Found For Key:hello
+Lookup Key:funky
+** Looking For Key:funky At Index:52 OFFSET:34
+** Looking For Key:funky At Index:27 OFFSET:34
+Entry for Key:funky Not Found
+No Value Found For Key:funky
+Lookup Key:icky
+** Looking For Key:icky At Index:55 OFFSET:53
+** Looking For Key:icky At Index:49 OFFSET:53
+** Looking For Key:icky At Index:43 OFFSET:53
+Entry for Key:icky Not Found
+No Value Found For Key:icky
+Lookup Key:very
+** Looking For Key:very At Index:55 OFFSET:56
+** Looking For Key:very At Index:52 OFFSET:56
+** Looking For Key:very At Index:49 OFFSET:56
+** Looking For Key:very At Index:46 OFFSET:56
+Entry for Key:very Found At Index:46
+Found Value:COLLISION
+Define Key:hello Value:COLLISION
+** Looking For Key:hello At Index:55 OFFSET:26
+** Looking For Key:hello At Index:22 OFFSET:26
+Creating Entry For Key:hello At PO Index:55
+Define Key:funky Value:COLLISION
+** Looking For Key:funky At Index:52 OFFSET:34
+** Looking For Key:funky At Index:27 OFFSET:34
+Creating Entry For Key:funky At PO Index:52
+Define Key:icky Value:COLLISION
+** Looking For Key:icky At Index:55 OFFSET:53
+** Looking For Key:icky At Index:49 OFFSET:53
+** Looking For Key:icky At Index:43 OFFSET:53
+Creating Entry For Key:icky At PO Index:49
+Define Key:hello Value:UPDATED
+** Looking For Key:hello At Index:55 OFFSET:26
+Updating Entry For Key:hello At Index:55
+Define Key:funky Value:UPDATED
+** Looking For Key:funky At Index:52 OFFSET:34
+Updating Entry For Key:funky At Index:52
+Define Key:icky Value:UPDATED
+** Looking For Key:icky At Index:55 OFFSET:53
+** Looking For Key:icky At Index:49 OFFSET:53
+Updating Entry For Key:icky At Index:49
+Lookup Key:hello
+** Looking For Key:hello At Index:55 OFFSET:26
+Entry for Key:hello Found At Index:55
+Found Value:UPDATED
+Lookup Key:funky
+** Looking For Key:funky At Index:52 OFFSET:34
+Entry for Key:funky Found At Index:52
+Found Value:UPDATED
+Lookup Key:icky
+** Looking For Key:icky At Index:55 OFFSET:53
+** Looking For Key:icky At Index:49 OFFSET:53
+Entry for Key:icky Found At Index:49
+Found Value:UPDATED
+Lookup Key:very
+** Looking For Key:very At Index:55 OFFSET:56
+** Looking For Key:very At Index:52 OFFSET:56
+** Looking For Key:very At Index:49 OFFSET:56
+** Looking For Key:very At Index:46 OFFSET:56
+Entry for Key:very Found At Index:46
+Found Value:COLLISION

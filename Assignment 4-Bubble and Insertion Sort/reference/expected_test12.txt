@@ -1,0 +1,86 @@
+5 4 6 1 10 2 8 9 3 7 
+Swapping 5 4
+Swapping 6 1
+Swapping 10 2
+Swapping 10 8
+Swapping 10 9
+Swapping 10 3
+Swapping 10 7
+Swapping 5 1
+Swapping 6 2
+Swapping 9 3
+Swapping 9 7
+Swapping 4 1
+Swapping 5 2
+Swapping 8 3
+Swapping 8 7
+Swapping 4 2
+Swapping 6 3
+Swapping 5 3
+Swapping 4 3
+1 2 3 4 5 6 7 8 9 10 
+5 4 6 1 10 2 8 9 3 7 
+Removed 5
+Inserting 5 On Empty List
+Removed 4
+Inserting 4 At Front Of List
+Removed 6
+Inserting 6 At Back Of List
+Removed 1
+Inserting 1 At Front Of List
+Removed 10
+Inserting 10 At Back Of List
+Removed 2
+Inserting 2 Between 1 And 4
+Removed 8
+Inserting 8 Between 6 And 10
+Removed 9
+Inserting 9 Between 8 And 10
+Removed 3
+Inserting 3 Between 2 And 4
+Removed 7
+Inserting 7 Between 6 And 8
+1 2 3 4 5 6 7 8 9 10 
+5 4 6 1 10 2 8 9 3 7 
+Swapping 5 4
+Swapping 6 1
+Swapping 10 2
+Swapping 10 8
+Swapping 10 9
+Swapping 10 3
+Swapping 10 7
+Swapping 5 1
+Swapping 6 2
+Swapping 9 3
+Swapping 9 7
+Swapping 4 1
+Swapping 5 2
+Swapping 8 3
+Swapping 8 7
+Swapping 4 2
+Swapping 6 3
+Swapping 5 3
+Swapping 4 3
+1 2 3 4 5 6 7 8 9 10 
+5 4 6 1 10 2 8 9 3 7 
+Removed 5
+Inserting 5 On Empty List
+Removed 4
+Inserting 4 At Front Of List
+Removed 6
+Inserting 6 At Back Of List
+Removed 1
+Inserting 1 At Front Of List
+Removed 10
+Inserting 10 At Back Of List
+Removed 2
+Inserting 2 Between 1 And 4
+Removed 8
+Inserting 8 Between 6 And 10
+Removed 9
+Inserting 9 Between 8 And 10
+Removed 3
+Inserting 3 Between 2 And 4
+Removed 7
+Inserting 7 Between 6 And 8
+1 2 3 4 5 6 7 8 9 10 

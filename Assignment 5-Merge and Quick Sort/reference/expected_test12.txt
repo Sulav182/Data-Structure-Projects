@@ -1,0 +1,127 @@
+7 6 5 
+Quick Sort, Size Of List: 3
+Picked Pivot: 7
+Quick Sort, Size Of List: 2
+Picked Pivot: 6
+Quick Sort, Size Of List: 1
+Quick Sort, Size Of List: 0
+DONE: Quick Sort, Size Of List: 2
+Quick Sort, Size Of List: 0
+DONE: Quick Sort, Size Of List: 3
+5 6 7 
+7 6 5 
+Merge Sort, Size Of List: 3
+Merge Sort, Size Of List: 2
+Merge Sort, Size Of List: 1
+Merge Sort, Size Of List: 1
+DONE: Merge Sort, Size Of List: 2
+Merge Sort, Size Of List: 1
+DONE: Merge Sort, Size Of List: 3
+5 6 7 
+10 5 15 2 12 7 17 1 11 9 19 3 13 4 14 8 18 6 16 20 
+Merge Sort, Size Of List: 20
+Merge Sort, Size Of List: 10
+Merge Sort, Size Of List: 5
+Merge Sort, Size Of List: 3
+Merge Sort, Size Of List: 2
+Merge Sort, Size Of List: 1
+Merge Sort, Size Of List: 1
+DONE: Merge Sort, Size Of List: 2
+Merge Sort, Size Of List: 1
+DONE: Merge Sort, Size Of List: 3
+Merge Sort, Size Of List: 2
+Merge Sort, Size Of List: 1
+Merge Sort, Size Of List: 1
+DONE: Merge Sort, Size Of List: 2
+DONE: Merge Sort, Size Of List: 5
+Merge Sort, Size Of List: 5
+Merge Sort, Size Of List: 3
+Merge Sort, Size Of List: 2
+Merge Sort, Size Of List: 1
+Merge Sort, Size Of List: 1
+DONE: Merge Sort, Size Of List: 2
+Merge Sort, Size Of List: 1
+DONE: Merge Sort, Size Of List: 3
+Merge Sort, Size Of List: 2
+Merge Sort, Size Of List: 1
+Merge Sort, Size Of List: 1
+DONE: Merge Sort, Size Of List: 2
+DONE: Merge Sort, Size Of List: 5
+DONE: Merge Sort, Size Of List: 10
+Merge Sort, Size Of List: 10
+Merge Sort, Size Of List: 5
+Merge Sort, Size Of List: 3
+Merge Sort, Size Of List: 2
+Merge Sort, Size Of List: 1
+Merge Sort, Size Of List: 1
+DONE: Merge Sort, Size Of List: 2
+Merge Sort, Size Of List: 1
+DONE: Merge Sort, Size Of List: 3
+Merge Sort, Size Of List: 2
+Merge Sort, Size Of List: 1
+Merge Sort, Size Of List: 1
+DONE: Merge Sort, Size Of List: 2
+DONE: Merge Sort, Size Of List: 5
+Merge Sort, Size Of List: 5
+Merge Sort, Size Of List: 3
+Merge Sort, Size Of List: 2
+Merge Sort, Size Of List: 1
+Merge Sort, Size Of List: 1
+DONE: Merge Sort, Size Of List: 2
+Merge Sort, Size Of List: 1
+DONE: Merge Sort, Size Of List: 3
+Merge Sort, Size Of List: 2
+Merge Sort, Size Of List: 1
+Merge Sort, Size Of List: 1
+DONE: Merge Sort, Size Of List: 2
+DONE: Merge Sort, Size Of List: 5
+DONE: Merge Sort, Size Of List: 10
+DONE: Merge Sort, Size Of List: 20
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+10 5 15 2 12 7 17 1 11 9 19 3 13 4 14 8 18 6 16 20 
+Quick Sort, Size Of List: 20
+Picked Pivot: 10
+Quick Sort, Size Of List: 9
+Picked Pivot: 5
+Quick Sort, Size Of List: 4
+Picked Pivot: 2
+Quick Sort, Size Of List: 1
+Quick Sort, Size Of List: 2
+Picked Pivot: 3
+Quick Sort, Size Of List: 0
+Quick Sort, Size Of List: 1
+DONE: Quick Sort, Size Of List: 2
+DONE: Quick Sort, Size Of List: 4
+Quick Sort, Size Of List: 4
+Picked Pivot: 7
+Quick Sort, Size Of List: 1
+Quick Sort, Size Of List: 2
+Picked Pivot: 9
+Quick Sort, Size Of List: 1
+Quick Sort, Size Of List: 0
+DONE: Quick Sort, Size Of List: 2
+DONE: Quick Sort, Size Of List: 4
+DONE: Quick Sort, Size Of List: 9
+Quick Sort, Size Of List: 10
+Picked Pivot: 15
+Quick Sort, Size Of List: 4
+Picked Pivot: 12
+Quick Sort, Size Of List: 1
+Quick Sort, Size Of List: 2
+Picked Pivot: 13
+Quick Sort, Size Of List: 0
+Quick Sort, Size Of List: 1
+DONE: Quick Sort, Size Of List: 2
+DONE: Quick Sort, Size Of List: 4
+Quick Sort, Size Of List: 5
+Picked Pivot: 17
+Quick Sort, Size Of List: 1
+Quick Sort, Size Of List: 3
+Picked Pivot: 19
+Quick Sort, Size Of List: 1
+Quick Sort, Size Of List: 1
+DONE: Quick Sort, Size Of List: 3
+DONE: Quick Sort, Size Of List: 5
+DONE: Quick Sort, Size Of List: 10
+DONE: Quick Sort, Size Of List: 20
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 

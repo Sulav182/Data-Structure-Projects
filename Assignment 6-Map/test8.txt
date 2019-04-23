@@ -1,0 +1,12 @@
+Define abc 123
+Define def 456
+Define ghi 789
+Define jkl 1010
+Define mno 1234
+Define pqr 5678
+Lookup abc
+Lookup def
+Lookup ghi
+Lookup jkl
+Lookup mno
+Lookup pqr

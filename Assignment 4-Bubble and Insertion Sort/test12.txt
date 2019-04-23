@@ -1,0 +1,4 @@
+10 5 4 6 1 10 2 8 9 3 7 bubblesort
+10 5 4 6 1 10 2 8 9 3 7 insertionsort
+10 5 4 6 1 10 2 8 9 3 7 bubblesort
+10 5 4 6 1 10 2 8 9 3 7 insertionsort

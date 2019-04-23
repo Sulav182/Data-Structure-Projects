@@ -1,0 +1,12 @@
+Define short 123
+Define lessshort 456
+Define shrt 789
+Define longer 1010
+Define longerthanlong 1234
+Define pqr 5678
+Lookup short
+Lookup lessshort
+Lookup shrt
+Lookup longer
+Lookup longerthanlong
+Lookup pqr

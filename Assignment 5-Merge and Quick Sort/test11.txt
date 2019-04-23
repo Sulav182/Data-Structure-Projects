@@ -1,0 +1,2 @@
+3 7 6 5 quicksort
+3 7 6 5 mergesort

@@ -1,0 +1,3 @@
+5 
+Quick Sort, Size Of List: 1
+5 

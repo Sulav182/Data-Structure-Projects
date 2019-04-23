@@ -1,0 +1,31 @@
+Define abracadabra COLLISION
+Define bonafide COLLISION
+Define delicious COLLISION
+Define edgy COLLISION
+Define funky COLLISION
+Define good COLLISION
+Define hello COLLISION
+Define icky COLLISION
+Define jovial COLLISION
+Define kool COLLISION
+Define looser COLLISION
+Define minimum COLLISION
+Define nice COLLISION
+Define object COLLISION
+Define part COLLISION
+Define quiet COLLISION
+Define raunchy COLLISION
+Define silly COLLISION
+Define tepid COLLISION
+Define uranium COLLISION
+Define very COLLISION
+Define worrisome COLLISION
+Define xylaphone COLLISION
+Define zebra COLLISION
+Delete hello
+Delete funky
+Delete icky
+Lookup hello
+Lookup funky
+Lookup icky
+Lookup very

@@ -1,0 +1,2 @@
+Define abc 123
+Lookup abc

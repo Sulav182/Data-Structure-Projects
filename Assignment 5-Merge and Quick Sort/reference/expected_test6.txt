@@ -1,0 +1,7 @@
+6 5 
+Quick Sort, Size Of List: 2
+Picked Pivot: 6
+Quick Sort, Size Of List: 1
+Quick Sort, Size Of List: 0
+DONE: Quick Sort, Size Of List: 2
+5 6 

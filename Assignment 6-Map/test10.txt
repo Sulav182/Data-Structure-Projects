@@ -1,0 +1,5 @@
+Define short 123
+Define shrt 456
+Delete short
+Lookup shrt
+Lookup short

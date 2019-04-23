@@ -1,0 +1,8 @@
+4 10 2 
+Removed 4
+Inserting 4 On Empty List
+Removed 10
+Inserting 10 At Back Of List
+Removed 2
+Inserting 2 At Front Of List
+2 4 10 

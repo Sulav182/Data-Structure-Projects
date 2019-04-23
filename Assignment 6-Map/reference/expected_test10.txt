@@ -1,0 +1,18 @@
+Define Key:short Value:123
+Creating Entry For Key:short At NO Index:3
+Define Key:shrt Value:456
+** Looking For Key:shrt At Index:3 OFFSET:1
+Creating Entry For Key:shrt At NO Index:4
+Delete Key:short
+** Looking For Key:short At Index:3 OFFSET:1
+Deleting Entry for Key:short At Index:3
+Lookup Key:shrt
+** Looking For Key:shrt At Index:3 OFFSET:1
+** Looking For Key:shrt At Index:4 OFFSET:1
+Entry for Key:shrt Found At Index:4
+Found Value:456
+Lookup Key:short
+** Looking For Key:short At Index:3 OFFSET:1
+** Looking For Key:short At Index:4 OFFSET:1
+Entry for Key:short Not Found
+No Value Found For Key:short

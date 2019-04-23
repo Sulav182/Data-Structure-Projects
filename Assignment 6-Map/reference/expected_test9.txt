@@ -1,0 +1,49 @@
+Define Key:short Value:123
+Creating Entry For Key:short At NO Index:3
+Define Key:lessshort Value:456
+Creating Entry For Key:lessshort At NO Index:4
+Define Key:shrt Value:789
+** Looking For Key:shrt At Index:3 OFFSET:1
+** Looking For Key:shrt At Index:4 OFFSET:1
+Creating Entry For Key:shrt At NO Index:0
+RESIZING: FROM:5 TO:7
+Creating Entry For Key:shrt At NO Index:1
+Creating Entry For Key:short At NO Index:2
+Creating Entry For Key:lessshort At NO Index:0
+DONE RESIZING
+Define Key:longer Value:1010
+Creating Entry For Key:longer At NO Index:6
+RESIZING: FROM:7 TO:13
+Creating Entry For Key:lessshort At NO Index:4
+Creating Entry For Key:shrt At NO Index:12
+Creating Entry For Key:short At NO Index:7
+Creating Entry For Key:longer At NO Index:10
+DONE RESIZING
+Define Key:longerthanlong Value:1234
+Creating Entry For Key:longerthanlong At NO Index:8
+Define Key:pqr Value:5678
+Creating Entry For Key:pqr At NO Index:11
+Lookup Key:short
+** Looking For Key:short At Index:7 OFFSET:12
+Entry for Key:short Found At Index:7
+Found Value:123
+Lookup Key:lessshort
+** Looking For Key:lessshort At Index:4 OFFSET:1
+Entry for Key:lessshort Found At Index:4
+Found Value:456
+Lookup Key:shrt
+** Looking For Key:shrt At Index:12 OFFSET:12
+Entry for Key:shrt Found At Index:12
+Found Value:789
+Lookup Key:longer
+** Looking For Key:longer At Index:10 OFFSET:7
+Entry for Key:longer Found At Index:10
+Found Value:1010
+Lookup Key:longerthanlong
+** Looking For Key:longerthanlong At Index:8 OFFSET:8
+Entry for Key:longerthanlong Found At Index:8
+Found Value:1234
+Lookup Key:pqr
+** Looking For Key:pqr At Index:11 OFFSET:6
+Entry for Key:pqr Found At Index:11
+Found Value:5678

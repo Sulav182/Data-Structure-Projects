@@ -1,0 +1,6 @@
+5 4 
+Removed 5
+Inserting 5 On Empty List
+Removed 4
+Inserting 4 At Front Of List
+4 5 
