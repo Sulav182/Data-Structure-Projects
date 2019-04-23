@@ -1,0 +1,6 @@
+insert 15
+insert 5
+insert 10
+preorder
+inorder 
+postorder

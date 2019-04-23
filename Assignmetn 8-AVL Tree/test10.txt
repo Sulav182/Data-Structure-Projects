@@ -1,0 +1,13 @@
+insert 100
+insert 50
+insert 150
+insert 15
+insert 1115
+remove 150
+preorder
+inorder 
+postorder
+remove 1115
+preorder
+inorder 
+postorder

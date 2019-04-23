@@ -1,0 +1,3 @@
+Enqueue of adam smith with priority 22
+Dequeue
+Dequeue of adam smith

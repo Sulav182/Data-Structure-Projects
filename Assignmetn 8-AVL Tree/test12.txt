@@ -1,0 +1,83 @@
+insert 1
+insert 2
+insert 3
+insert 4
+insert 5
+insert 6
+insert 7
+insert 8
+insert 9
+insert 10
+insert 11
+insert 12
+insert 13
+insert 14
+insert 15
+insert 16
+insert 17
+insert 18
+insert 19
+insert 20
+insert 21
+insert 22
+insert 23
+insert 24
+insert 25
+insert 26
+insert 27
+insert 28
+insert 29
+insert 30
+insert 40
+insert 39
+insert 38
+insert 37
+insert 36
+insert 35
+insert 34
+insert 33
+insert 32
+insert 31
+preorder
+inorder 
+postorder
+remove 20
+remove 10
+remove 30
+remove 40
+remove 15
+remove 25
+remove 35
+remove 5
+preorder
+inorder 
+postorder
+remove 31
+remove 32
+remove 33
+remove 34
+remove 36
+remove 37
+remove 38
+remove 39
+preorder
+inorder 
+postorder
+remove 17
+remove 18
+remove 19
+remove 16
+remove 21
+remove 22
+remove 23
+remove 24
+preorder
+inorder 
+postorder
+remove 26
+remove 27
+remove 28
+remove 29
+preorder
+inorder 
+postorder

@@ -1,0 +1,6 @@
+insert 5
+remove 5
+insert 5
+preorder
+inorder 
+postorder

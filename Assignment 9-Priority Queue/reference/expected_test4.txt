@@ -1,0 +1,10 @@
+Enqueue of adam smith with priority 22
+Enqueue of john doe with priority 22
+Resized Array To 4
+Updating index 1 with priority 11
+Swapping index 1 and 2
+Dequeue
+Dequeue of john doe
+Dequeue
+Dequeue of adam smith
+Queue Is Empty

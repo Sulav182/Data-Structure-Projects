@@ -1,0 +1,6 @@
+enqueue adam smith 22
+enqueue john doe 22
+update 2 33
+dequeue
+dequeue
+dequeue

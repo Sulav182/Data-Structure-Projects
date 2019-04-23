@@ -1,0 +1,18 @@
+insert 500
+insert 500
+insert 500
+insert 500
+insert 500
+insert 500
+insert 500
+insert 500
+insert 500
+insert 500
+insert 500
+insert 500
+insert 250
+insert 750
+remove 500
+preorder
+inorder 
+postorder

@@ -1,0 +1,5 @@
+RotateLeft NULL 5 10
+RotateRight 10 15 NULL
+10 5 15 
+5 10 15 
+5 15 10 

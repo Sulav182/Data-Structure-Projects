@@ -1,0 +1,2 @@
+enqueue adam smith 22
+dequeue

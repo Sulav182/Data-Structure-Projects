@@ -1,0 +1,5 @@
+insert 5
+inorder
+preorder
+postorder
+calculate

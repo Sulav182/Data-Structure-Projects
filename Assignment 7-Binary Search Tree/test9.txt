@@ -1,0 +1,18 @@
+insert 10
+insert 5
+insert 15
+insert 2
+insert 6
+insert 8
+insert 12
+insert 18
+insert 10
+insert 10
+remove 10
+remove 5
+calculate
+inorder
+preorder
+postorder
+clear
+inorder

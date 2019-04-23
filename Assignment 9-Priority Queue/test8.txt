@@ -1,0 +1,25 @@
+enqueue adam smith 22
+enqueue john doe 22
+update 2 33
+update 2 22
+dequeue
+dequeue
+dequeue
+enqueue james cameron 11
+enqueue janet reno 22
+enqueue jane doe 33
+enqueue june march 44
+enqueue A A 55
+enqueue B B 66
+enqueue C C 77
+enqueue D D 88
+enqueue E E 99
+update 11 10
+update 10 9
+update 9 8
+update 8 7
+update 7 6
+update 6 5
+update 5 4
+update 4 3
+update 3 2

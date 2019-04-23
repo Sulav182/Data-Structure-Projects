@@ -1,0 +1,7 @@
+insert 10
+insert 5
+insert 15
+remove 10
+preorder
+inorder 
+postorder

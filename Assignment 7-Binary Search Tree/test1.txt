@@ -1,0 +1,6 @@
+remove 5
+clear
+inorder
+preorder
+postorder
+calculate

@@ -1,0 +1,70 @@
+Enqueue of adam smith with priority 22
+Enqueue of john doe with priority 22
+Resized Array To 4
+Updating index 2 with priority 33
+Swapping index 1 and 2
+Updating index 2 with priority 22
+Dequeue
+Dequeue of john doe
+Dequeue
+Dequeue of adam smith
+Queue Is Empty
+Enqueue of james cameron with priority 11
+Enqueue of janet reno with priority 22
+Swapping index 1 and 2
+Enqueue of jane doe with priority 33
+Swapping index 1 and 3
+Enqueue of june march with priority 44
+Resized Array To 8
+Swapping index 2 and 4
+Swapping index 1 and 2
+Enqueue of A A with priority 55
+Swapping index 2 and 5
+Swapping index 1 and 2
+Enqueue of B B with priority 66
+Swapping index 3 and 6
+Swapping index 1 and 3
+Enqueue of C C with priority 77
+Swapping index 3 and 7
+Swapping index 1 and 3
+Enqueue of D D with priority 88
+Resized Array To 16
+Swapping index 4 and 8
+Swapping index 2 and 4
+Swapping index 1 and 2
+Enqueue of E E with priority 99
+Swapping index 4 and 9
+Swapping index 2 and 4
+Swapping index 1 and 2
+Updating index 11 with priority 10
+Swapping index 1 and 2
+Swapping index 2 and 4
+Swapping index 4 and 9
+Updating index 10 with priority 9
+Swapping index 1 and 2
+Swapping index 2 and 4
+Swapping index 4 and 8
+Updating index 9 with priority 8
+Swapping index 1 and 3
+Swapping index 3 and 7
+Updating index 8 with priority 7
+Swapping index 1 and 3
+Swapping index 3 and 6
+Updating index 7 with priority 6
+Swapping index 1 and 2
+Swapping index 2 and 5
+Updating index 6 with priority 5
+Swapping index 1 and 2
+Swapping index 2 and 4
+Swapping index 4 and 9
+Updating index 5 with priority 4
+Swapping index 1 and 3
+Swapping index 3 and 7
+Updating index 4 with priority 3
+Swapping index 1 and 2
+Swapping index 2 and 4
+Swapping index 4 and 8
+Updating index 3 with priority 2
+Swapping index 1 and 2
+Swapping index 2 and 4
+Swapping index 4 and 9
