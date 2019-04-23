@@ -1,0 +1,22 @@
+Flights From ABQ
+-- Flight to PHN cost:50 start:150 end:250
+Flights From LAX
+-- Flight to PTL cost:50 start:450 end:550
+-- Flight to SEA cost:800 start:200 end:300
+Flights From LBB
+-- Flight to ABQ cost:50 start:0 end:100
+-- Flight to LAX cost:900 start:0 end:100
+Flights From PHN
+-- Flight to LAX cost:50 start:300 end:400
+Flights From PTL
+-- Flight to SEA cost:50 start:600 end:700
+Flights From SEA
+Cheapest From:LBB To:SEA
+Flight LBB ABQ cost:50 start:0 end:100
+Flight ABQ PHN cost:50 start:150 end:250
+Flight PHN LAX cost:50 start:300 end:400
+Flight LAX PTL cost:50 start:450 end:550
+Flight PTL SEA cost:50 start:600 end:700
+Earliest From:LBB To:SEA
+Flight LBB LAX cost:900 start:0 end:100
+Flight LAX SEA cost:800 start:200 end:300

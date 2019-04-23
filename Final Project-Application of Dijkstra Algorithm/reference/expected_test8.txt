@@ -1,0 +1,37 @@
+Cheapest From:LAX To:LBB
+Earliest From:LAX To:LBB
+Cheapest From:LAX To:LBB
+Flight LAX LBB cost:500 start:0 end:500
+Earliest From:LAX To:LBB
+Flight LAX LBB cost:500 start:0 end:500
+Cheapest From:LAX To:LBB
+Flight LAX LBB cost:500 start:0 end:500
+Earliest From:LAX To:LBB
+Flight LAX LBB cost:500 start:0 end:500
+Cheapest From:LAX To:LBB
+Flight LAX ABQ cost:100 start:0 end:400
+Flight ABQ LBB cost:100 start:450 end:700
+Earliest From:LAX To:LBB
+Flight LAX LBB cost:500 start:0 end:500
+Cheapest From:LAX To:LBB
+Flight LAX ABQ cost:100 start:0 end:400
+Flight ABQ LBB cost:100 start:450 end:700
+Earliest From:LAX To:LBB
+Flight LAX LBB cost:500 start:0 end:500
+Cheapest From:LAX To:LBB
+Flight LAX ABQ cost:100 start:0 end:400
+Flight ABQ LBB cost:100 start:450 end:700
+Earliest From:LAX To:LBB
+Flight LAX DEN cost:900 start:0 end:200
+Flight DEN LBB cost:900 start:250 end:400
+Flights From ABQ
+-- Flight to LBB cost:100 start:300 end:600
+-- Flight to LBB cost:100 start:450 end:700
+Flights From DEN
+-- Flight to LBB cost:800 start:100 end:300
+-- Flight to LBB cost:900 start:250 end:400
+Flights From LAX
+-- Flight to ABQ cost:100 start:0 end:400
+-- Flight to DEN cost:900 start:0 end:200
+-- Flight to LBB cost:500 start:0 end:500
+Flights From LBB

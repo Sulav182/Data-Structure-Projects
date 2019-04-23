@@ -1,0 +1,15 @@
+Flight LBB LAX 900 0 100
+Flight LAX SEA 800 200 300
+Flight LBB ABQ 50 0 100
+Flight ABQ PHN 50 150 250
+Flight PHN LAX 50 300 400
+Flight LAX PTL 50 450 550
+Flight PTL SEA 50 600 700
+List *
+Cheapest LBB SEA
+Earliest LBB SEA
+Flight LBB SEA 2000 0 250
+Flight LBB SEA 100 0 900
+List *
+Cheapest LBB SEA
+Earliest LBB SEA

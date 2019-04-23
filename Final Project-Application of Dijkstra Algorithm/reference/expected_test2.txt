@@ -1,0 +1,47 @@
+Network Is Empty
+Airport LAX Not Found
+Flights From LAX
+-- Flight to SFC cost:900 start:0 end:100
+Flights From SFC
+Flights From LAX
+-- Flight to SFC cost:900 start:0 end:100
+Flights From LAX
+-- Flight to SFC cost:900 start:0 end:100
+-- Flight to SFC cost:800 start:100 end:200
+Flights From SFC
+Flights From LAX
+-- Flight to SFC cost:900 start:0 end:100
+-- Flight to SFC cost:800 start:100 end:200
+Flights From LAX
+-- Flight to SFC cost:900 start:0 end:100
+-- Flight to SFC cost:800 start:100 end:200
+-- Flight to SFC cost:700 start:200 end:300
+Flights From SFC
+Flights From LAX
+-- Flight to SFC cost:900 start:0 end:100
+-- Flight to SFC cost:800 start:100 end:200
+-- Flight to SFC cost:700 start:200 end:300
+Flights From LAX
+-- Flight to SFC cost:900 start:0 end:100
+-- Flight to SFC cost:800 start:100 end:200
+-- Flight to SFC cost:700 start:200 end:300
+-- Flight to SFC cost:600 start:300 end:400
+Flights From SFC
+Flights From LAX
+-- Flight to SFC cost:900 start:0 end:100
+-- Flight to SFC cost:800 start:100 end:200
+-- Flight to SFC cost:700 start:200 end:300
+-- Flight to SFC cost:600 start:300 end:400
+Flights From LAX
+-- Flight to SFC cost:900 start:0 end:100
+-- Flight to SFC cost:800 start:100 end:200
+-- Flight to SFC cost:700 start:200 end:300
+-- Flight to SFC cost:600 start:300 end:400
+-- Flight to SFC cost:500 start:500 end:600
+Flights From SFC
+Flights From LAX
+-- Flight to SFC cost:900 start:0 end:100
+-- Flight to SFC cost:800 start:100 end:200
+-- Flight to SFC cost:700 start:200 end:300
+-- Flight to SFC cost:600 start:300 end:400
+-- Flight to SFC cost:500 start:500 end:600

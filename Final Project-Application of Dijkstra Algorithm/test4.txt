@@ -1,0 +1,8 @@
+Flight LAX SFC 900 0 100
+Flight LAX SFC 800 100 200
+Flight LAX SFC 700 200 300
+Flight LAX SFC 600 300 400
+Flight LAX SFC 500 500 600
+List *
+Cheapest LAX SFC
+Earliest LAX SFC

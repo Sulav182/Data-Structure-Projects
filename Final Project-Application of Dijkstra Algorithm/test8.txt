@@ -1,0 +1,21 @@
+Cheapest LAX LBB
+Earliest LAX LBB
+Flight LAX LBB 500 0 500
+Cheapest LAX LBB
+Earliest LAX LBB
+Flight LAX ABQ 100 0 400
+Flight ABQ LBB 100 300 600 
+Cheapest LAX LBB
+Earliest LAX LBB
+Flight ABQ LBB 100 450 700 
+Cheapest LAX LBB
+Earliest LAX LBB
+Flight LAX DEN 900 0 200
+Flight DEN LBB 800 100 300 
+Cheapest LAX LBB
+Earliest LAX LBB
+Flight DEN LBB 900 250 400 
+Cheapest LAX LBB
+Earliest LAX LBB
+
+List *

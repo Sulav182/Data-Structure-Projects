@@ -1,0 +1,17 @@
+List *
+List LAX
+Flight LAX SFC 900 0 100
+List *
+List LAX
+Flight SFC LAX 800 100 200
+List *
+List LAX
+Flight LAX SFC 700 200 300
+List *
+List LAX
+Flight PTL SFC 600 300 400
+List *
+List LAX
+Flight SFC PTL 500 500 600
+List *
+List LAX
