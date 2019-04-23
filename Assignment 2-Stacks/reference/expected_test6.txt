@@ -1,0 +1,3 @@
+Pushed 5
+Popped 5
+Stack Is Empty

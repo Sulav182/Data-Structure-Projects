@@ -1,0 +1,35 @@
+Enqueued 0
+Dequeued 0
+Queue Is Empty
+Enqueued 0
+Enqueued 1
+Enqueued 2
+Enqueued 3
+Enqueued 4
+Enqueued 5
+Enqueued 6
+Enqueued 7
+Enqueued 8
+Enqueued 9
+Enqueued 10
+Dequeued 0
+Dequeued 1
+Dequeued 2
+Dequeued 3
+Dequeued 4
+Display In Reverse
+10
+9
+8
+7
+6
+5
+Peeked 5
+Dequeued 5
+Dequeued 6
+Dequeued 7
+Dequeued 8
+Dequeued 9
+Dequeued 10
+Queue Is Empty
+Queue Is Empty

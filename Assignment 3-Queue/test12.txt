@@ -1,0 +1,12 @@
+enqueue 0 0
+dequeue 2
+enqueue 0 10
+dequeue 5
+display
+peek
+dequeue 5
+peek
+display
+dequeue 1
+enqueue 5 10
+display

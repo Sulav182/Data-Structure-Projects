@@ -1,0 +1,31 @@
+Pushed 5
+Pushed 6
+Pushed 7
+Display
+7
+6
+5
+Popped 7
+Popped 6
+Popped 5
+Stack Is Empty
+Stack Is Empty
+Pushed 8
+Pushed 9
+Display
+9
+8
+Pushed 10
+Pushed 11
+Display
+11
+10
+9
+8
+Popped 11
+Popped 10
+Popped 9
+Popped 8
+Stack Is Empty
+Stack Is Empty
+Stack Is Empty

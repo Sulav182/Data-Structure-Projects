@@ -1,0 +1,7 @@
+Pushed 5
+Pushed 6
+Pushed 7
+Popped 7
+Popped 6
+Popped 5
+Stack Is Empty

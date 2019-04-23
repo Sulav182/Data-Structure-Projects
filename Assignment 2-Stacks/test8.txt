@@ -1,0 +1,9 @@
+push 5
+push 6
+push 7
+pop
+pop
+pop
+pop
+push 8
+display

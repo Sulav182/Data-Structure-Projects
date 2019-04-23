@@ -1,0 +1,3 @@
+Pushed 5
+Pushed 6
+Peeked 6
